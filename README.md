@@ -15,7 +15,7 @@ This project focuses on analyzing a primary company and constructing two portfol
 
 ## Portfolio Analysis:
 
-### Portfolio Construction:
+### Portfolio Construction: [To be done]
 - Build a portfolio of 5 stocks: 30% in the primary company and price-weighted for the others.
 - Calculate performance metrics (Sharpe ratio, Treynor ratio, Jensen’s Alpha) and compare against a benchmark index.
 ### Diversification Benefits:
